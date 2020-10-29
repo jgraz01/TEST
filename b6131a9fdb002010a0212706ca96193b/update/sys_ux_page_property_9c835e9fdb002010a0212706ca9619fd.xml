@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices>tab</choices>
+        <description>Workspace level navigation mode</description>
+        <name>ws_navigation_mode</name>
+        <page display_value="TestGit">5883929fdb002010a0212706ca9619e1</page>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-29 16:25:29</sys_created_on>
+        <sys_id>9c835e9fdb002010a0212706ca9619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ws_navigation_mode</sys_name>
+        <sys_package display_value="TestGit" source="x_292637_testgit">b6131a9fdb002010a0212706ca96193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestGit">b6131a9fdb002010a0212706ca96193b</sys_scope>
+        <sys_update_name>sys_ux_page_property_9c835e9fdb002010a0212706ca9619fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-29 16:25:29</sys_updated_on>
+        <type>choicelist</type>
+        <unique_name>x_292637_testgit.ws_navigation_mode</unique_name>
+        <value>tab</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=9c835e9fdb002010a0212706ca9619fd"/>
+</record_update>
